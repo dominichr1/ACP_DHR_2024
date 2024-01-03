@@ -1,10 +1,6 @@
 # ACP_DHR_2024
 Scripts used for the data anaysis for ACP paper 2024. Including function files, and jupyter notebooks.
 
-# ACP_DHR_2023
-
-Scripts used for the data analysis for ACP paper 2023. Including function files, and Jupyter notebooks. 
-
 See below for figure and corresponding notebook:
 
 |     Figures      	|     Notebook                                                 	|
